@@ -1,0 +1,16 @@
+header {
+  text-align: center;
+}
+
+header {
+  background-color: blue;
+}
+main {
+}
+.content-title {
+  text-align: center;
+}
+.color-bar {
+  min-height: 1em;
+  background-color: cornflowerblue;
+}
